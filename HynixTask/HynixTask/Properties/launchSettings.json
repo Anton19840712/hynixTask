@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "HynixTask": {
+      "commandName": "Project",
+      "commandLineArgs": "\"D:\\files\""
+    }
+  }
+}
